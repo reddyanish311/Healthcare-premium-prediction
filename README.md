@@ -3,6 +3,9 @@ This project predicts annual healthcare insurance premiums based on user demogra
 
 🔗 Live Demo: [Try the App](https://healthcare-predict.streamlit.app/)
 
+![App Screenshot](assets/screenshot.png)
+
+
 📌 Project Features
 Predicts insurance premiums for two user groups:
 
